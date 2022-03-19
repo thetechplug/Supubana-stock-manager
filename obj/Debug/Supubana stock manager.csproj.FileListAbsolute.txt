@@ -1,0 +1,93 @@
+C:\Users\Gladys\source\repos\Supubana stock manager\bin\Debug\Supubana stock manager.exe.config
+C:\Users\Gladys\source\repos\Supubana stock manager\bin\Debug\Supubana stock manager.exe
+C:\Users\Gladys\source\repos\Supubana stock manager\bin\Debug\Supubana stock manager.pdb
+C:\Users\Gladys\source\repos\Supubana stock manager\obj\Debug\Supubana stock manager.csprojAssemblyReference.cache
+C:\Users\Gladys\source\repos\Supubana stock manager\obj\Debug\Supubana_stock_manager.Login.resources
+C:\Users\Gladys\source\repos\Supubana stock manager\obj\Debug\Supubana_stock_manager.Properties.Resources.resources
+C:\Users\Gladys\source\repos\Supubana stock manager\obj\Debug\Supubana stock manager.csproj.GenerateResource.cache
+C:\Users\Gladys\source\repos\Supubana stock manager\obj\Debug\Supubana stock manager.csproj.CoreCompileInputs.cache
+C:\Users\Gladys\source\repos\Supubana stock manager\obj\Debug\Supubana stock manager.exe
+C:\Users\Gladys\source\repos\Supubana stock manager\obj\Debug\Supubana stock manager.pdb
+C:\Users\Gladys\source\repos\Supubana stock manager\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Gladys\source\repos\Supubana stock manager\bin\Debug\System.Net.Http.Formatting.dll
+C:\Users\Gladys\source\repos\Supubana stock manager\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Gladys\source\repos\Supubana stock manager\bin\Debug\System.Net.Http.Formatting.xml
+C:\Users\Gladys\source\repos\Supubana stock manager\obj\Debug\Supubana stock manager.csproj.CopyComplete
+C:\Users\Gladys\source\repos\Supubana stock manager\obj\Debug\Supubana_stock_manager.Home.resources
+C:\Users\Gladys\source\repos\Supubana stock manager\obj\Debug\Supubana_stock_manager.managerhome.resources
+C:\Users\Gladys\source\repos\Supubana stock manager\obj\Debug\Supubana_stock_manager.newsalesrecord.resources
+C:\Users\Gladys\source\repos\Supubana stock manager\obj\Debug\Supubana_stock_manager.Print.resources
+C:\Users\Gladys\source\repos\Supubana stock manager\obj\Debug\Supubana_stock_manager.admin.resources
+C:\Users\Gladys\source\repos\Supubana stock manager\obj\Debug\Supubana_stock_manager.adduser.resources
+C:\Users\Gladys\source\repos\Supubana stock manager\obj\Debug\Supubana_stock_manager.adminhome.resources
+C:\Users\Gladys\source\repos\Supubana stock manager\obj\Debug\Supubana_stock_manager.addinventory.resources
+C:\Users\user\Desktop\Supubana stock manager\bin\Debug\Supubana stock manager.exe.config
+C:\Users\user\Desktop\Supubana stock manager\bin\Debug\Supubana stock manager.exe
+C:\Users\user\Desktop\Supubana stock manager\bin\Debug\Supubana stock manager.pdb
+C:\Users\user\Desktop\Supubana stock manager\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\user\Desktop\Supubana stock manager\bin\Debug\CloudinaryDotNet.dll
+C:\Users\user\Desktop\Supubana stock manager\bin\Debug\Common.Logging.Core.dll
+C:\Users\user\Desktop\Supubana stock manager\bin\Debug\Common.Logging.dll
+C:\Users\user\Desktop\Supubana stock manager\bin\Debug\itext.barcodes.dll
+C:\Users\user\Desktop\Supubana stock manager\bin\Debug\itext.forms.dll
+C:\Users\user\Desktop\Supubana stock manager\bin\Debug\itext.io.dll
+C:\Users\user\Desktop\Supubana stock manager\bin\Debug\itext.kernel.dll
+C:\Users\user\Desktop\Supubana stock manager\bin\Debug\itext.layout.dll
+C:\Users\user\Desktop\Supubana stock manager\bin\Debug\itext.pdfa.dll
+C:\Users\user\Desktop\Supubana stock manager\bin\Debug\itext.sign.dll
+C:\Users\user\Desktop\Supubana stock manager\bin\Debug\itext.styledxmlparser.dll
+C:\Users\user\Desktop\Supubana stock manager\bin\Debug\itext.svg.dll
+C:\Users\user\Desktop\Supubana stock manager\bin\Debug\Newtonsoft.Json.dll
+C:\Users\user\Desktop\Supubana stock manager\bin\Debug\Spire.License.dll
+C:\Users\user\Desktop\Supubana stock manager\bin\Debug\Spire.Pdf.dll
+C:\Users\user\Desktop\Supubana stock manager\bin\Debug\System.Net.Http.Formatting.dll
+C:\Users\user\Desktop\Supubana stock manager\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\user\Desktop\Supubana stock manager\bin\Debug\Microsoft.mshtml.dll
+C:\Users\user\Desktop\Supubana stock manager\bin\Debug\BouncyCastle.Crypto.xml
+C:\Users\user\Desktop\Supubana stock manager\bin\Debug\CloudinaryDotNet.xml
+C:\Users\user\Desktop\Supubana stock manager\bin\Debug\Common.Logging.pdb
+C:\Users\user\Desktop\Supubana stock manager\bin\Debug\Common.Logging.xml
+C:\Users\user\Desktop\Supubana stock manager\bin\Debug\Common.Logging.Core.pdb
+C:\Users\user\Desktop\Supubana stock manager\bin\Debug\Common.Logging.Core.xml
+C:\Users\user\Desktop\Supubana stock manager\bin\Debug\itext.barcodes.xml
+C:\Users\user\Desktop\Supubana stock manager\bin\Debug\itext.forms.xml
+C:\Users\user\Desktop\Supubana stock manager\bin\Debug\itext.io.xml
+C:\Users\user\Desktop\Supubana stock manager\bin\Debug\itext.kernel.xml
+C:\Users\user\Desktop\Supubana stock manager\bin\Debug\itext.layout.xml
+C:\Users\user\Desktop\Supubana stock manager\bin\Debug\itext.pdfa.xml
+C:\Users\user\Desktop\Supubana stock manager\bin\Debug\itext.sign.xml
+C:\Users\user\Desktop\Supubana stock manager\bin\Debug\itext.styledxmlparser.xml
+C:\Users\user\Desktop\Supubana stock manager\bin\Debug\itext.svg.xml
+C:\Users\user\Desktop\Supubana stock manager\bin\Debug\Newtonsoft.Json.xml
+C:\Users\user\Desktop\Supubana stock manager\bin\Debug\Spire.License.xml
+C:\Users\user\Desktop\Supubana stock manager\bin\Debug\Spire.Pdf.xml
+C:\Users\user\Desktop\Supubana stock manager\bin\Debug\System.Net.Http.Formatting.xml
+C:\Users\user\Desktop\Supubana stock manager\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\user\Desktop\Supubana stock manager\obj\Debug\Supubana stock manager.csprojAssemblyReference.cache
+C:\Users\user\Desktop\Supubana stock manager\obj\Debug\Supubana_stock_manager.AccountantHome.resources
+C:\Users\user\Desktop\Supubana stock manager\obj\Debug\Supubana_stock_manager.Addagents.resources
+C:\Users\user\Desktop\Supubana stock manager\obj\Debug\Supubana_stock_manager.AddExpense.resources
+C:\Users\user\Desktop\Supubana stock manager\obj\Debug\Supubana_stock_manager.addinventory.resources
+C:\Users\user\Desktop\Supubana stock manager\obj\Debug\Supubana_stock_manager.adduser.resources
+C:\Users\user\Desktop\Supubana stock manager\obj\Debug\Supubana_stock_manager.admin.resources
+C:\Users\user\Desktop\Supubana stock manager\obj\Debug\Supubana_stock_manager.adminhome.resources
+C:\Users\user\Desktop\Supubana stock manager\obj\Debug\Supubana_stock_manager.Balances.resources
+C:\Users\user\Desktop\Supubana stock manager\obj\Debug\Supubana_stock_manager.Bank.resources
+C:\Users\user\Desktop\Supubana stock manager\obj\Debug\Supubana_stock_manager.DepositsRecords.resources
+C:\Users\user\Desktop\Supubana stock manager\obj\Debug\Supubana_stock_manager.Home.resources
+C:\Users\user\Desktop\Supubana stock manager\obj\Debug\Supubana_stock_manager.Inventoryrecords.resources
+C:\Users\user\Desktop\Supubana stock manager\obj\Debug\Supubana_stock_manager.Login.resources
+C:\Users\user\Desktop\Supubana stock manager\obj\Debug\Supubana_stock_manager.managerhome.resources
+C:\Users\user\Desktop\Supubana stock manager\obj\Debug\Supubana_stock_manager.newsalesrecord.resources
+C:\Users\user\Desktop\Supubana stock manager\obj\Debug\Supubana_stock_manager.NotCollected.resources
+C:\Users\user\Desktop\Supubana stock manager\obj\Debug\Supubana_stock_manager.Print.resources
+C:\Users\user\Desktop\Supubana stock manager\obj\Debug\Supubana_stock_manager.Properties.Resources.resources
+C:\Users\user\Desktop\Supubana stock manager\obj\Debug\Supubana_stock_manager.RecordedExpense.resources
+C:\Users\user\Desktop\Supubana stock manager\obj\Debug\Supubana_stock_manager.salesrecord.resources
+C:\Users\user\Desktop\Supubana stock manager\obj\Debug\Supubana stock manager.csproj.GenerateResource.cache
+C:\Users\user\Desktop\Supubana stock manager\obj\Debug\Supubana stock manager.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\Supubana stock manager\obj\Debug\Supubana stock manager.csproj.CopyComplete
+C:\Users\user\Desktop\Supubana stock manager\obj\Debug\Supubana stock manager.exe
+C:\Users\user\Desktop\Supubana stock manager\obj\Debug\Supubana stock manager.pdb
+C:\Users\user\Desktop\Supubana stock manager\obj\Debug\Supubana_stock_manager.Cart.resources
+C:\Users\user\Desktop\Supubana stock manager\obj\Debug\Supubana_stock_manager.InventoryUpdate.resources
